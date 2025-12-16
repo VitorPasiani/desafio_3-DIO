@@ -20,9 +20,6 @@ class heroi:
 
         return f"{self.tipo} atacou com {atacar}"
 
-mago_heroi = heroi("Harry Potter", 11, tipo="mago")
-
-
 # --- VALIDAÇÃO --- #
 
 mago_heroi = heroi("Harry Potter", 11, tipo="mago")
